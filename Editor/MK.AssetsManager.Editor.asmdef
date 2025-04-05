@@ -1,0 +1,7 @@
+{
+  "name": "MK.AssetsManager.Editor",
+  "rootNamespace": "MK.AssetsManager.Editor",
+  "includePlatforms": [
+    "Editor"
+  ]
+}
