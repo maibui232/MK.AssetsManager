@@ -15,12 +15,5 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": [
-        {
-            "name": "com.unity.addressables",
-            "expression": "2.2.2",
-            "define": "MK_ADDRESSABLES"
-        }
-    ],
     "noEngineReferences": false
 }
