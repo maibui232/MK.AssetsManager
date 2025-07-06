@@ -7,7 +7,9 @@
         "UniTask",
         "UniTask.Addressables",
         "MK.Log",
-        "MK.DependencyInjection"
+        "MK.DependencyInjection",
+        "MK.Kernel",
+        "MK.Extensions"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
